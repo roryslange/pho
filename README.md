@@ -1,2 +1,2 @@
 # pho
-physics engine in go, maybe
+physics engine for fun
