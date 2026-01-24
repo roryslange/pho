@@ -1,7 +1,7 @@
-#include <fmt/core.h>
+#include "spdlog/spdlog.h"
 
 int main()
 {
-    fmt::print("Hello World!\n");
+    spdlog::info("hello world!");
     return 0;
 }

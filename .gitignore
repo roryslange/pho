@@ -1,1 +1,5 @@
 build/
+vcpkg_installed/
+
+# should be unique for each developer
+CMakeUserPresets.json
