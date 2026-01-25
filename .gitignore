@@ -1,5 +1,6 @@
 build/
 vcpkg_installed/
+.vscode/
 
 # should be unique for each developer
 CMakeUserPresets.json
