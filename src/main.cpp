@@ -2,6 +2,6 @@
 
 int main()
 {
-    spdlog::info("hello world!");
+    spdlog::info("hello from src!");
     return 0;
 }
